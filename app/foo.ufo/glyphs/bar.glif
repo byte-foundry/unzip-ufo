@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="1">
+  <advance width="229"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="106" y="-270" type="line"/>
+      <point x="106" y="-274"/>
+      <point x="123" y="-274"/>
+      <point x="123" y="-270" type="curve" smooth="yes"/>
+      <point x="123" y="730" type="line" smooth="yes"/>
+      <point x="123" y="733"/>
+      <point x="106" y="733"/>
+      <point x="106" y="730" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>FontLab Mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>106.0</real>
+                  <key>y</key>
+                  <real>-270.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>106.0</real>
+                  <key>y</key>
+                  <real>-274.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>123.0</real>
+                  <key>y</key>
+                  <real>-274.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <real>123.0</real>
+                  <key>y</key>
+                  <real>-270.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <real>123.0</real>
+                  <key>y</key>
+                  <real>730.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>123.0</real>
+                  <key>y</key>
+                  <real>733.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>106.0</real>
+                  <key>y</key>
+                  <real>733.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <real>106.0</real>
+                  <key>y</key>
+                  <real>730.0</real>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>229</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <integer>1</integer>
+      </array>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

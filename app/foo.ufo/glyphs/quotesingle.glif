@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle" format="1">
+  <advance width="205"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="116" y="435" type="curve" smooth="yes"/>
+      <point x="123" y="511"/>
+      <point x="149" y="677"/>
+      <point x="154" y="716" type="curve" smooth="yes"/>
+      <point x="155" y="725"/>
+      <point x="50" y="725"/>
+      <point x="51" y="715" type="curve" smooth="yes"/>
+      <point x="56" y="677"/>
+      <point x="84" y="508"/>
+      <point x="91" y="435" type="curve" smooth="yes"/>
+      <point x="91" y="430"/>
+      <point x="116" y="430"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>FontLab Mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <real>116.0</real>
+                  <key>y</key>
+                  <real>435.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>123.0</real>
+                  <key>y</key>
+                  <real>511.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>149.0</real>
+                  <key>y</key>
+                  <real>677.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <real>154.0</real>
+                  <key>y</key>
+                  <real>716.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>155.0</real>
+                  <key>y</key>
+                  <real>725.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>50.0</real>
+                  <key>y</key>
+                  <real>725.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <real>51.0</real>
+                  <key>y</key>
+                  <real>715.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>56.0</real>
+                  <key>y</key>
+                  <real>677.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>84.0</real>
+                  <key>y</key>
+                  <real>508.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <real>91.0</real>
+                  <key>y</key>
+                  <real>435.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>91.0</real>
+                  <key>y</key>
+                  <real>430.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>116.0</real>
+                  <key>y</key>
+                  <real>430.0</real>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotesingle</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>205</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.125</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <integer>1</integer>
+      </array>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+    </dict>
+  </lib>
+</glyph>
